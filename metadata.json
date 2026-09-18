@@ -1,0 +1,6 @@
+{
+  "name": "Portal de Notícias",
+  "description": "Portal completo e moderno de notícias com Guia Empresarial e minisites de lojas e serviços com WhatsApp e Google Maps, painel administrativo, banners e popups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
